@@ -1,2 +1,2 @@
 # Srinivasa
-Fusion of methemetics and programming
+Fusion of methematics and programming
