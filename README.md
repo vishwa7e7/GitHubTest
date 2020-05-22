@@ -1,2 +1,1 @@
-# Srinivasan
-Fusion of methematics and programming
+# Created for learning purpose
